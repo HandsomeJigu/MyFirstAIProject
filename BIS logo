@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150">
+  <!-- Rectangle background -->
+  <rect width="100%" height="100%" fill="#3498db" />
+
+  <!-- Text: BOBCATS on top -->
+  <text x="50%" y="20%" font-family="Arial, sans-serif" font-size="20" fill="#fff" text-anchor="middle" dominant-baseline="middle">BOBCATS</text>
+
+  <!-- Text: BIS -->
+  <text x="50%" y="45%" font-family="Arial, sans-serif" font-size="30" fill="#fff" text-anchor="middle" dominant-baseline="middle">BIS</text>
+
+  <!-- Text: International Christian Education -->
+  <text x="50%" y="90%" font-family="Arial, sans-serif" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="middle">International Christian Education</text>
+</svg>
